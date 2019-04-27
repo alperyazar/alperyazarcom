@@ -1,0 +1,65 @@
+Options -Indexes -MultiViews +FollowSymLinks
+IndexIgnore *
+ErrorDocument 404 /404.html
+
+## make sure nobody gets the htaccess, README, COPYING or VERSION files
+<Files ~ "^([\._]ht)">
+    Order allow,deny
+    Deny from all
+    Satisfy All
+</Files>
+
+## Uncomment these rules if you want to have nice URLs using
+## $conf['userewrite'] = 1 - not needed for rewrite mode 2
+
+#RedirectMatch 302 /r/(.*) /apps/redirect/$1 #Bunun yerine altta RewriteRule olarak yazdim
+
+RewriteEngine on
+RewriteBase /
+
+RewriteRule ^r/(.*)$ /apps/redirect/$1 [R=302,NC,L]
+
+#custom - redirect non www to www
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=302,L]
+
+#RewriteCond %{REQUEST_FILENAME} -f
+#RewriteRule ^(.*)$ - [L]
+
+#RewriteRule ^projects/isousbrs422/v1/home\.html$ /projects/isousbrs422.html [R=302,NC,L]
+#RewriteRule ^projects/isousbrs422/v1/home/$ /projects/isousbrs422.html [R=302,NC,L]
+#RewriteRule ^projects/isousbrs422/v1/home$ /projects/isousbrs422.html [R=302,NC,L]
+#RewriteRule ^projects/isousbrs422/v1$ /projects/isousbrs422.html [R=302,NC,L]
+
+#RewriteRule ^projects/isousbrs422/home\.html$ /projects/isousbrs422.html [R=302,NC,L]
+#RewriteRule ^projects/isousbrs422/home/$ /projects/isousbrs422.html [R=302,NC,L]
+#RewriteRule ^projects/isousbrs422/home$ /projects/isousbrs422.html [R=302,NC,L]
+
+
+# static pages
+# RewriteRule ^about/?$ /about.html [R=302,L]
+# RewriteRule ^contact/?$ /contact.html [R=302,L]
+# RewriteRule feed/?$ /feed.xml [R=302,L]
+
+# pass anything ending in HTML - prevents infinite redirect if the wildcard formulas below are incorrect
+#RewriteRule ^(.*).html$ - [L]
+
+# trailing slash vars ve gecerli bir directory degilse slashi kaldir.
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule ^(.*)/$ /$1 [L,R=302]
+
+#RewriteCond %{REQUEST_URI} !^.*\.html$
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule ^(.*)$ $1.html [L,R=302]
+
+#end of custom
+
+# http://janetriley.net/2016/02/htaccess-for-jekyll.html
+
+
+
+#customs
+
+#RedirectMatch ^/projects$	/outputs#completed_hardware_projects
+#RedirectMatch ^/publications$	/outputs#publications
