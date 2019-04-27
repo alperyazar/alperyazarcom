@@ -210,6 +210,8 @@ html_search_language = 'en'
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'AlperYazaralperyazarcomdoc'
 
+html_copy_source = False
+
 # -- Options for LaTeX output ---------------------------------------------
 
 latex_elements = {
