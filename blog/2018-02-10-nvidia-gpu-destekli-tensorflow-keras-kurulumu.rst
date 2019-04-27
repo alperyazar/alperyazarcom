@@ -1,9 +1,6 @@
 Tensorflow (NVIDIA GPU Desteği ile) ve Keras Kurulumu
 =====================================================
 
-.. warning::
-	Yazı 10 Şubat 2018 tarihinde yazılmış ve tekrar güncellenmemiştir.
-
 .. note::
 	Aşağıda yazdığım kısımlar konu ile ilgili kendime aldığım notlardır. Bir blog yazısına kıyasla daha az özenle yazılmıştır. Faydalı olması için paylaşıyorum.
 
@@ -119,3 +116,7 @@ Ekran kartı kullanılmaya başlandığı anda PC takılıyor ve "hard reset" ya
 """""
 
 Bence problemin kaynağı CUDA'nın kurulduğu anda ekran kartı sürücüleri ile oynaması. Benim durumumda son sürüm sürücüleri Nvidia sitesinden indirmek problemi çözdü. Fakat internette başka yazılımlarda (Adobe Premier gibi) sorun yaşayanlar olmuş. Onların bir kısmı BIOS'tan optimus'u kapatmış, kimisi Nvidia ayarlarından kendi yazılımları için sürekli Nvidia GPU'yu kullan diye ayar yapmış (bizim durumda bu python.exe oluyor). Net bir çözümü yok, biraz doğaçlama yapmak gerekecek böyle bir sorunda.
+
+Oluşturuldu: 10 Şubat 2018
+
+Güncellendi: -

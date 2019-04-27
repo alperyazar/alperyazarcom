@@ -1,7 +1,5 @@
 How to install Jekyll on fresh Ubuntu 16.04 LTS
 ===============================================
-.. warning::
-	Created on September 03, 2017 and has not been updated yet.
 
 .. note::
 	This is a self note blog post and it doesn't contain detailed explanations as in tutorial posts.
@@ -464,3 +462,7 @@ Run the following command and enter your sudo password when it is asked.
 Notice the warning about running the code as root. Don't do that like me! Run without sudo as previously.
 
 **We are done.**
+
+Created: September 03, 2017
+
+Updated: -

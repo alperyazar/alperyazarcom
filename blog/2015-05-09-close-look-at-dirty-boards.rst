@@ -27,7 +27,7 @@ Ring width isn't uniform and soldermask isn't perfect.
 
 .. figure:: /images/blog/20150509/isousbrs422_pcb_3.jpg
 
-These are 1.4mm x 0.35mm pads with 0.65mm pitch. Idealy (according to gerber files), there should be soldermask between pads. Distance between edges of two consecutive pads is approximately 12 mili inches. Although minimum solder mask distance is given as 3.5mm for black soldermask (I think _Min solder dam_ is that parameter. Please correct me if I am wrong.) on dirtypcbs spec page, PCB fab house didn't put soldermaks between pads.
+These are 1.4mm x 0.35mm pads with 0.65mm pitch. Idealy (according to gerber files), there should be soldermask between pads. Distance between edges of two consecutive pads is approximately 12 mili inches. Although minimum solder mask distance is given as 3.5mm for black soldermask (I think *Min solder dam* is that parameter. Please correct me if I am wrong.) on dirtypcbs spec page, PCB fab house didn't put soldermaks between pads.
 
 .. figure:: /images/blog/20150509/isousbrs422_pcb_4.jpg
 
