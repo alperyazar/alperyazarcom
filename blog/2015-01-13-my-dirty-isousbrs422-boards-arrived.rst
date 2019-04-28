@@ -1,3 +1,5 @@
+.. _page_blog_20150113_isousbrs422:
+
 My "Dirty" isoUSBRS422 Boards Just Arrived
 ==========================================
 

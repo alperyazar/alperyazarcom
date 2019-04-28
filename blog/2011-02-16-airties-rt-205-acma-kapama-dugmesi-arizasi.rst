@@ -85,7 +85,7 @@ Bu işlemi yaklaşık 10 gün önce yaptım ve benzer bir problem yaşayanlara y
 
 Sorunsuz günler dileğil ile...
 
-**Bu yöntem sizin de probleminizi çözdüyse siz de iletmek ister misiniz?**
+Bu yöntem sizin de probleminizi çözdüyse siz de :ref:`iletmek <page_contact>` ister misiniz?
 
 Güncellendi: -
 

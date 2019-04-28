@@ -1,3 +1,5 @@
+.. _page_blog_20161018_apcmeter:
+
 aPCmeter project is published.
 ==============================
 

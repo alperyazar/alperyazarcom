@@ -1,3 +1,5 @@
+.. _page_blog_20160202_apcmeter:
+
 Let's build a PC meter, in an analog way!
 =========================================
 

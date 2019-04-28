@@ -1,7 +1,9 @@
+.. _page_blog_20150509_isousbrs422:
+
 Close Look At "Dirty Boards" (isoUSBRS422 Project)
 ==================================================
 
-[As I mentioned earlier]({% post_url 2015-01-13-my-dirty-isousbrs422-boards-arrived %}) for my first open source project called :ref:`page_projects_isoUSBRS422`, I ordered PCBs from `dirtypcbs.com <http://www.alperyazar.com/r/9N7Xk>`__. They arrived in January. I took some photos using USB microscope.
+:ref:`As I mentioned earlier <page_blog_20150113_isousbrs422>` for my first open source project called :ref:`page_projects_isoUSBRS422`, I ordered PCBs from `dirtypcbs.com <http://www.alperyazar.com/r/9N7Xk>`__. They arrived in January. I took some photos using USB microscope.
 
 Boards are dirty. Especially, soldermask layers aren't perfect. My first prototype is work as I expected. So they should be fine in terms of electrical connections. Also, you may see flying probe marks on pads for electrical test (I think) done by PCB fab house.
 

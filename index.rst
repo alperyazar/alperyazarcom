@@ -112,6 +112,8 @@ Past
   * :ref:`page_projects_izoelektronikcom`
   * :ref:`page_projects_devrelerhakkindacom`
 
+.. _page_contact:
+
 Contact
 =======
 
@@ -120,8 +122,6 @@ Contact
 Generally, I reply messages within a week. However if I can’t, please don’t hesitate to remind me, i.e., resend the message or use the alternative methods.
 
 Alternatively, you can reach me via `my Twitter account <http://www.alperyazar.com/r/twitter>`_ (mentioning for example), or via `my Facebook page <http://www.alperyazar.com/r/facebook>`__.
-
-
 
 Miscellaneous
 =============

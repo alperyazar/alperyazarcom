@@ -5,6 +5,7 @@ isoUSBRS422 is on EEVblog "Mailbag" (+my comments)
 
 .. figure:: /images/blog/20151226/eevblog833_isousbrs422_320_226.jpg
    :alt: Dave Jones is opening my parcel.
+   :align: center
    
    Dave Jones is opening my parcel.
 

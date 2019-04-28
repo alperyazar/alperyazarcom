@@ -1,3 +1,5 @@
+.. _page_blog_20120729_ibtc:
+
 İBTÇ: Sorunu Belirleme
 ======================
 

@@ -19,7 +19,7 @@ Bu sayede LaTeX kelimelerinizi otomatik olarak hecelemeyecektir. Fakat adam zate
 
   \usepackage[turkish]{babel}
 
-**Direkt İngilizce olarak üstekki paketleri kullanmadan hecelemeyi kapatabiliyor musunuz denemedim.** Sadece Babel'e özgü olabilir, bilemiyorum. Denerseniz bana da haber verirseniz sevinirim. 
+**Direkt İngilizce olarak üstekki paketleri kullanmadan hecelemeyi kapatabiliyor musunuz denemedim.** Sadece Babel'e özgü olabilir, bilemiyorum. Denerseniz bana da :ref:`haber verirseniz <page_contact>` sevinirim.
 
 Güncellendi: -
 

@@ -54,7 +54,7 @@ Atari kolunu devremizde kullanmak için belirttiğim 5 hattı kullanmamız gerek
 
    Atari kolunu kullanmak için örnek bir sinyalizasyon
 
-Latch sinyalinin yükselen kenarlarında yazmış olduğum "Tüm düğmeler _sample_lanır." adlı tarzanca notum için özür dilerim. :) Buradaki Latch ve Clock sinyalinin frekansı size kalmış. Alt limit yok fakat tahmin edebileceğiniz gibi bir üst limit yok. Üst limiti tam olarak bilmiyorsam da sanki bir kaynakta 10 MHz civarı bir hız yazıyordu. Daha net bilgi için başka kaynaklara bakabilirsiniz. Fakat bir ateri kolunu bu kadar hızlı okumak gerekir mi, tartışılır. İnternetteki çoğu kaynakta atarilerin saniyede 60 okuma yaptığı yazıyor. Bir kolu okumak için yetip de artacak bir hız. Burada dikkat edilmesi gereken nokta düğmelerin okunuş sırası. Sıra ile şu düğmelerin bilgisi geliyor:
+Latch sinyalinin yükselen kenarlarında yazmış olduğum "Tüm düğmeler "sample"lanır." adlı tarzanca notum için özür dilerim. :) Buradaki Latch ve Clock sinyalinin frekansı size kalmış. Alt limit yok fakat tahmin edebileceğiniz gibi bir üst limit yok. Üst limiti tam olarak bilmiyorsam da sanki bir kaynakta 10 MHz civarı bir hız yazıyordu. Daha net bilgi için başka kaynaklara bakabilirsiniz. Fakat bir ateri kolunu bu kadar hızlı okumak gerekir mi, tartışılır. İnternetteki çoğu kaynakta atarilerin saniyede 60 okuma yaptığı yazıyor. Bir kolu okumak için yetip de artacak bir hız. Burada dikkat edilmesi gereken nokta düğmelerin okunuş sırası. Sıra ile şu düğmelerin bilgisi geliyor:
 
 **A, B, Select, Start, Yukarı, Aşağı, Sola, Sağa**
 

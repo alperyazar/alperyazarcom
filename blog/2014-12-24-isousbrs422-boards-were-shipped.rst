@@ -1,3 +1,5 @@
+.. _page_blog_20141224_isousbrs422:
+
 isoUSBRS422: Boards were shipped
 ================================
 

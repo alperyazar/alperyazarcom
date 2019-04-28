@@ -1,12 +1,15 @@
+.. _page_blog_20151114_isousbrs422:
+
 First version (v1) of isoUSBRS422 Project is Completed
 ======================================================
 
 .. figure:: /images/blog/20151114/gallery_isousbrs422_cs_coated_v1_320_287.jpg
    :alt: Component side of isoUSBRS422 board
+   :align: center
    
    Component side of isoUSBRS422 board
 
-[I had announced]({% post_url 2014-12-23-new-project-isousbrs422 %}) my first open source hardware project on my blog in December 2014. This is an open source, isolated USB <-> RS-422/RS-485 converter board.
+:ref:`I had announced <page_blog_20141223_isousbrs422>` my first open source hardware project on my blog in December 2014. This is an open source, isolated USB <-> RS-422/RS-485 converter board.
 
 Today, I finished all jobs related to this project and published all necessary files. I took approximately 1 year to finish it. It is very long time for such project but I worked for my MSc thesis work almost all my spare time. After finishing my thesis work, I was able to finish this project.
 

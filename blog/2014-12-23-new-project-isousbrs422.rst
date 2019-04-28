@@ -1,3 +1,5 @@
+.. _page_blog_20141223_isousbrs422:
+
 New Project: isoUSBRS422, Isolated USB RS422 Converter
 ======================================================
 

@@ -1,3 +1,5 @@
+.. _page_blog_20151229_isousbrs422:
+
 isoUSBRS422 project is featured on Dangerous Prototypes
 =======================================================
 

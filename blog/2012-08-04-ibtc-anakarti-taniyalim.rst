@@ -1,3 +1,5 @@
+.. _page_blog_20120804_ibtc:
+
 İBTÇ: Anakartı Tanıyalım
 ========================
 
