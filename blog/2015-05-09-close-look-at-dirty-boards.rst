@@ -1,9 +1,6 @@
 Close Look At "Dirty Boards" (isoUSBRS422 Project)
 ==================================================
 
-.. warning::
-	Created on May 09, 2015 and has not been updated.
-
 [As I mentioned earlier]({% post_url 2015-01-13-my-dirty-isousbrs422-boards-arrived %}) for my first open source project called :ref:`page_projects_isoUSBRS422`, I ordered PCBs from `dirtypcbs.com <http://www.alperyazar.com/r/9N7Xk>`__. They arrived in January. I took some photos using USB microscope.
 
 Boards are dirty. Especially, soldermask layers aren't perfect. My first prototype is work as I expected. So they should be fine in terms of electrical connections. Also, you may see flying probe marks on pads for electrical test (I think) done by PCB fab house.
@@ -57,3 +54,7 @@ Comments
 * Pads are not perfectly flat. Especially for small ICs, once you put component on PCB it doesn't stand on pads nicely.
 
 According to me, considering pricing, dirtypcbs boards are preferable for prototyping. Apart from technical details, [I was also happy about shipping time.]({% post_url 2015-01-13-my-dirty-isousbrs422-boards-arrived %})
+
+Updated: -
+
+Created: May 09, 2015

@@ -1,9 +1,6 @@
 First version (v1) of isoUSBRS422 Project is Completed
 ======================================================
 
-.. warning::
-	Created on November 14, 2015 and has not been updated.
-
 .. figure:: /images/blog/20151114/gallery_isousbrs422_cs_coated_v1_320_287.jpg
    :alt: Component side of isoUSBRS422 board
    
@@ -25,3 +22,7 @@ The First Video
 .. raw:: html
 
 	<center><iframe width="560" height="315" src="https://www.youtube.com/embed/EZh2zi6m1yI" frameborder="0" allowfullscreen></iframe></center>
+
+Updated: -
+
+Created: November 14, 2015

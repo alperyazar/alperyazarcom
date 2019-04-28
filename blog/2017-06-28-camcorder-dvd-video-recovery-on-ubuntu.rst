@@ -1,9 +1,6 @@
 Camcorder DVD video recovery on Ubuntu
 ======================================
 
-.. warning::
-	Created on June 28, 2017 and has not been updated.
-
 TL;DR
 -----
 
@@ -41,16 +38,16 @@ Introduction
 ------------
 
 .. figure:: /images/blog/20170628/sony_dcr-dvd306e.jpg
-   :scale: 100 %
    :alt: Sony DCR-DVD306E
+   :align: center
    
    Image from sony.com
 
 I have an old **Sony Handycam** camcorder. Its full name is **DCR-DVD306E**. I bought in 2007 and it is now 10 years old. Nevertheless it still works pretty well. Its main disadvantage is storage. It uses mini DVD for storage instead of memory card or internal HDD as in contemporary ones. As far as I remember, a single DVD can store video records with total time less than 30 minutes which is not very good. If you are planning to record long videos, you should prepare a bunch of blank DVDs. Of course, you can use rewritable DVDs. Battery usage time is dependent on the record quality. The highest resolution is HQ not HD and and it can record up to ~90 minutes on a single charge.
 
 .. figure:: /images/blog/20170628/mini_dvd.jpg
-   :scale: 100 %
    :alt: Mini DVD
+   :align: center
    
    Image from sony.com Diameter of mini DVD is 8 cm. It is 12 cm for standard DVD.Image from sony.com
 
@@ -154,6 +151,7 @@ I gave up working on the image and searched for further alternatives. First I tr
 
 .. figure:: /images/blog/20170628/1.png
    :alt: Disaster with dvdisaster
+   :align: center
    
    Disaster with dvdisaster
 
@@ -183,6 +181,7 @@ The tool is self explanatory but I add step-by-step screenshots just for clarifi
 
 .. figure:: /images/blog/20170628/2.png
    :alt: photorec Step 1
+   :align: center
    
    photorec Step 1
 
@@ -190,6 +189,7 @@ Press ``Enter``.
 
 .. figure:: /images/blog/20170628/3.png
    :alt: photorec Step 2
+   :align: center
    
    photorec Step 2
 
@@ -199,6 +199,7 @@ Select ``Other`` and press ``Enter``.
 
 .. figure:: /images/blog/20170628/4.png
    :alt: photorec Step 3
+   :align: center
    
    photorec Step 3
 
@@ -206,11 +207,13 @@ Select the output directory by pressing ``Enter`` then press ``C``.
 
 .. figure:: /images/blog/20170628/5.png
    :alt: photorec Step 4
+   :align: center
    
    photorec Step 4
 
 .. figure:: /images/blog/20170628/6.png
    :alt: photorec Step 5
+   :align: center
    
    photorec Step 5
 
@@ -220,3 +223,7 @@ Conclusion
 ----------
 
 I hope this post helps you. If you like `photorec <http://www.alperyazar.com/r/photorec>`__, you may consider `making a donation to the author of the tool! <http://www.alperyazar.com/r/fYagX>`__
+
+Updated: -
+
+Created: June 28, 2017

@@ -1,11 +1,9 @@
 isoUSBRS422 project is featured on Dangerous Prototypes
 =======================================================
 
-.. warning::
-	Created on December 29, 2015 and has not been updated yet.
-
 .. figure:: /images/blog/20151229/dp_featured.png
    :alt: Dangerous Prototypes
+   :align: center
    
    Dangerous Prototypes
  
@@ -14,3 +12,7 @@ Vow! Another great news after :ref:`page_blog_20151226_eevblog` post. `Dangerous
 `The original DP post here <http://dangerousprototypes.com/2015/12/17/isousbrs422-an-open-source-isolated-usb-rs422rs485-converter-board/>`__
 
 Many thanks to DP. I am glad to see my project on such a reputable blog.
+
+Updated: -
+
+Created: December 29, 2015

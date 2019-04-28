@@ -1,9 +1,6 @@
 Let's build a PC meter, in an analog way!
 =========================================
 
-.. warning::
-	Created on February 02, 2016 and last update on October 08, 2016.
-
 .. note::
 	Project is published `here <http://www.alperyazar.com/r/aPCmeter>`__.
 
@@ -14,3 +11,7 @@ Let's build a PC meter, in an analog way!
    :alt: CPU Usage Gauge
    
    CPU Usage Gauge
+
+Updated: -
+
+Created: February 02, 2016

@@ -3,9 +3,6 @@
 isoUSBRS422 is on EEVblog "Mailbag" (+my comments)
 ==================================================
 
-.. warning::
-	Created on December 26, 2015 and has not been updated yet.
-
 .. figure:: /images/blog/20151226/eevblog833_isousbrs422_320_226.jpg
    :alt: Dave Jones is opening my parcel.
    
@@ -69,3 +66,7 @@ Why is there a Turkish flag sticker at the top? Well, to see how it looks like. 
 Why did I send to EEVblog? Well, just for fun. I have been watching EEVblog for a long time and I always appreciated makers who sent their open source designs to Mailbag videos. I wanted to send one too. isoUSBRS422 isn't a commercial product then I don't need any commercial. As I said, just for fun. It is a good memory for me, thanks EEVblog.
 
 Project page: http://www.alperyazar.com/r/isoUSBRS422v1
+
+Updated: -
+
+Created: December 26, 2015
