@@ -4,7 +4,7 @@ Merhaba Sphinx!
 ===============
 
 Blogumla son yıllarda neredeyse hiç ilgilenemiyorum. En son yazımı tam 14 ay
-önce yazmşım. Her yazımda daha sık yazmalıyım diye düşünsem de bunu uygulamaya
+önce yazmışım. Her yazımda daha sık yazmalıyım diye düşünsem de bunu uygulamaya
 geçiremiyorum. Bu ufak yazı ile de sitem ile ilgili tarihe not düşmek istiyorum.
 Umarım bu altyapı değişikliği daha sık yazı yazmam konusunda da faydalı olur.
 
