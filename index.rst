@@ -16,7 +16,7 @@ I am,
 
 living in `Ankara <https://en.wikipedia.org/wiki/Ankara>`__, `Turkey <https://en.wikipedia.org/wiki/Turkey>`__.
 
-**Profiles**: `Twitter <http://www.alperyazar.com/r/twitter>`__,  `Facebook <http://www.alperyazar.com/r/facebook>`__, `Linkedin <http://www.alperyazar.com/r/linkedin>`__, `Github <http://www.alperyazar.com/r/github>`__, `Stack Exchange <http://www.alperyazar.com/r/stackexchange>`__, `YouTube <http://www.alperyazar.com/r/youtube>`__, `Hackaday <http://www.alperyazar.com/r/hackaday>`__
+**Profiles**: `LinkedIn <http://www.alperyazar.com/r/linkedin>`__, `Google Scholar <https://scholar.google.com.tr/citations?hl=tr&user=yLCD7acAAAAJ>`__, `Twitter <http://www.alperyazar.com/r/twitter>`__,  `Facebook <http://www.alperyazar.com/r/facebook>`__, `Github <http://www.alperyazar.com/r/github>`__, `Stack Exchange <http://www.alperyazar.com/r/stackexchange>`__, `YouTube <http://www.alperyazar.com/r/youtube>`__, `Hackaday <http://www.alperyazar.com/r/hackaday>`__
 
 Previously
 ----------
@@ -85,7 +85,7 @@ Lecture Notes
 Technical
 ---------
 
-  * `comp.arch Notes <https://comparch-notes.readthedocs.io/en/latest/>`__
+  * `ayazar's Notes <https://notes.ayazar.com>`__
 
 Thesis
 ------
@@ -99,7 +99,7 @@ Ongoing
 -------
 
   * :ref:`page_projects_accloud`
-  * `comp.arch Notes <https://github.com/alperyazar/comp.arch-notes/>`__
+  * `ayazar's Notes <https://github.com/alperyazar/notes/>`__
   * :ref:`page_projects_SSTBIOSProg`
   * :ref:`page_projects_IBTC`
 
