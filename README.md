@@ -14,7 +14,7 @@ Source code of my website. If you wish you can contribute (through pull request 
 
 [![GitHub License](https://img.shields.io/github/license/alperyazar/alperyazarcom.svg?style=flat)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-SPDX-License-Identifier:CC-BY-SA-4.0
+SPDX-License-Identifier: CC-BY-SA-4.0
 
 This project is licensed under CC-BY-SA-4.0 if otherwise stated.
 Check `LICENSE` for further information.
