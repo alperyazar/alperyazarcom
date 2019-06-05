@@ -2,9 +2,6 @@ language: python
 python:
   - "3.6"
 
-before_script:
-  - cd docs
-  
 script:
   - make html
 
