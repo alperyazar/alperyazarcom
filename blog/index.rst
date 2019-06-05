@@ -5,10 +5,11 @@
 All Blog Posts
 ===============
 
-Oldest first.
+Newest first.
 
 .. toctree::
    :maxdepth: 1
+   :reversed:
    :glob:
 
    20*
