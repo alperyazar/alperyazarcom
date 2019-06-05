@@ -4,6 +4,9 @@ python:
 
 script:
   - make html
+  - cd _build/html
+  - touch .nojekyll
+  - cd -
 
 deploy:
   provider: pages
