@@ -17,7 +17,7 @@ don't need to ask permission if you obey license rules.
 Multilingual, human readable version and summary of the license is written on
 https://creativecommons.org/licenses/by-sa/4.0/ You may check the page if you
 have questions on the license. If you are in doubt,
-you can :ref:`contact_page`.
+you can :ref:`page_contact`.
 
 For the sake of completeness, full text of the license is given below as
 verbatim. It can be also found on
