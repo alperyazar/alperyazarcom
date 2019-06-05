@@ -7,6 +7,7 @@ script:
   - cd _build/html
   - touch .nojekyll
   - cd -
+  - cp CNAME _build/html
 
 deploy:
   provider: pages
