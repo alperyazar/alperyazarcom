@@ -82,11 +82,6 @@ Lecture Notes
   * :ref:`page_lecturenotes_ee533`
   * :ref:`page_lecturenotes_ee604`
 
-Technical
----------
-
-  * `ayazar's Notes <https://notes.ayazar.com>`__
-
 Thesis
 ------
 
@@ -112,6 +107,14 @@ Past
   * :ref:`page_projects_izoelektronikcom`
   * :ref:`page_projects_devrelerhakkindacom`
 
+Notebook
+========
+
+.. toctree::
+   :maxdepth: 2
+
+   nb/lectures/index
+
 .. _page_contact:
 
 Contact
@@ -126,6 +129,14 @@ Alternatively, you can reach me via `my Twitter account <http://www.alperyazar.c
 Miscellaneous
 =============
 
+* :ref:`disclaimer_page`
+* :ref:`license_page`
+* :ref:`todos_page`
+* :ref:`Glossary Index <genindex>`
+
+  * :ref:`Miscellaneous Terms <misc_glossary_page>`
+
+* :ref:`bibliography_page`
 * :ref:`genindex`
 * :ref:`search`
 
