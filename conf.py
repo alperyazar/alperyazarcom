@@ -50,7 +50,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Alper Yazar | alperyazar.com'
-copyright = '2019, Alper Yazar'
+copyright = '2011-2019, Alper Yazar'
 author = 'Alper Yazar'
 
 # The version info for the project you're documenting, acts as replacement for
