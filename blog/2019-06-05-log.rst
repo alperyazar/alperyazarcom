@@ -1,0 +1,11 @@
+.. _page_blog_20190605_log:
+
+2019-06-05 Log
+==============
+
+* Travis CI deployment ve Github pages ile bir subdomain üzerinde otomatik 
+  site üretimini ve yayınını deniyorum.
+
+Güncellendi: -
+
+Oluşturuldu: 2019-06-05
