@@ -111,17 +111,18 @@ todo_include_todos = True
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'default'
+html_theme = 'bizstyle'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 
-html_theme_options = {
-	'rightsidebar': False,
-	'stickysidebar' : False,
-	'externalrefs' : False
-}
+if html_theme == 'classic':
+	html_theme_options = {
+		'rightsidebar': False,
+		'stickysidebar' : False,
+		'externalrefs' : False
+	}
 
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []
@@ -154,7 +155,7 @@ html_static_path = ['_static']
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
-html_last_updated_fmt = '%Y-%m-%d'
+#html_last_updated_fmt = '%Y-%m-%d'
 
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
