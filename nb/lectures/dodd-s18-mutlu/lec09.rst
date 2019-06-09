@@ -38,7 +38,7 @@ Lecture Minutes
     .. figure:: images/l09-von_neumann_model.png
         :align: center
 
-    *Taken directly from the lecture notes. © belongs to Prof. Mutlu*
+        *Taken directly from the lecture notes. © belongs to Prof. Mutlu*
 
 * **09:00** Solid lines move data, they are data lines. Dash lines are control lines.
 * **10:00** Memory stores data and programs (both). Memory contains bits. Bits are grouped
@@ -97,14 +97,14 @@ Glossary
             .. figure:: images/l09-endianness_egg.png
                 :align: center
 
-            *Taken directly from the lecture notes. © belongs to Prof. Mutlu*
+                *Taken directly from the lecture notes. © belongs to Prof. Mutlu*
 
         Here is the summary:
 
             .. figure:: images/l09-big_little_endian.png
                 :align: center
 
-            *Taken directly from the lecture notes. © belongs to Prof. Mutlu*
+                *Taken directly from the lecture notes. © belongs to Prof. Mutlu*
 
     instruction
 
@@ -138,4 +138,3 @@ Glossary
 .. index::
     addressability
     address space
-
