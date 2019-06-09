@@ -118,8 +118,3 @@ Glossary
 
         Describes the delay between inputs changing and outputs responding
 
-.. index::
-    Placheolder
-
-
-.. sectionauthor:: Alper Yazar

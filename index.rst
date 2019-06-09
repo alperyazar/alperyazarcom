@@ -115,6 +115,12 @@ Notebook
 
    nb/lectures/index
 
+.. toctree::
+   :maxdepth: 1
+
+   nb/dict/index
+
+
 .. _page_contact:
 
 Contact
