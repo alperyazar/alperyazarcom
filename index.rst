@@ -64,7 +64,6 @@ Ongoing
 -------
 
   * :ref:`page_projects_accloud`
-  * `ayazar's Notes <https://github.com/alperyazar/notes/>`__
   * :ref:`page_projects_SSTBIOSProg`
   * :ref:`page_projects_IBTC`
 
