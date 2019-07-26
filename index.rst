@@ -29,6 +29,11 @@ Previously
 
 lived in `Bursa <https://en.wikipedia.org/wiki/Bursa>`__, `Turkey <https://en.wikipedia.org/wiki/Turkey>`__.
 
+Patent
+======
+
+  * **Yazar. A**. Düşük Sızıntı Akımlı Anlık Tetik Girişli Yapılandırılabilir Mandal Devresi. **TR 2016 09051 B**
+
 Publication
 ===========
 
