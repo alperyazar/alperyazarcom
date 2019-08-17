@@ -32,7 +32,8 @@ lived in `Bursa <https://en.wikipedia.org/wiki/Bursa>`__, `Turkey <https://en.wi
 Patent
 ======
 
-  * **Yazar. A**. Düşük Sızıntı Akımlı Anlık Tetik Girişli Yapılandırılabilir Mandal Devresi. **TR 2016 09051 B**
+  * **Yazar. A**. Düşük Sızıntı Akımlı Anlık Tetik Girişli Yapılandırılabilir
+    Mandal Devresi. **TR 2016 09051 B**
 
 Publication
 ===========
@@ -40,7 +41,9 @@ Publication
 Conference
 ----------
 
-  * **Yazar. A.** (2018, June). Bir Açık Kaynak Kodlu Gerçek Zamanlı İşletim Sistemi (FreeRTOS) ile Gömülü Yazılım Geliştirme Çalışmaları. In 2018 9th Savunma Teknolojileri Kongresi (SAVTEK).
+  * **Yazar. A.** (2018, June). Bir Açık Kaynak Kodlu Gerçek Zamanlı
+    İşletim Sistemi (FreeRTOS) ile Gömülü Yazılım Geliştirme Çalışmaları.
+    In 2018 9th Savunma Teknolojileri Kongresi (SAVTEK).
 
   * **Yazar, A.**, Erol, A., & Schmidt, E. G. (2018, May). ACCLOUD (Accelerated CLOUD): A novel FPGA-Accelerated cloud archictecture. In 2018 26th Signal Processing and Communications Applications Conference (SIU) (pp. 1-4). IEEE. `Link <https://ieeexplore.ieee.org/abstract/document/8404548>`__
 
@@ -89,6 +92,11 @@ Notebook
 
    nb/dict/index
 
+KB
+===
+
+:ref:`page_all_kb`
+
 Blog
 ====
 
@@ -131,7 +139,8 @@ Contact
 
 `Please fill the contact form. / Lütfen iletişim formunu doldurunuz. <https://docs.google.com/forms/d/e/1FAIpQLScMa-ye1ojYHcfeXQu2dB3d6iMES_62-S4sDD3eUgH8NZ-VEg/viewform?usp=send_form>`__
 
-Generally, I reply messages within a week. However if I can’t, please don’t hesitate to remind me, i.e., resend the message or use the alternative methods.
+Generally, I reply messages within a week. However if I can’t, please don’t
+hesitate to remind me, i.e., resend the message or use the alternative methods.
 
 Alternatively, you can reach me via `my Twitter account <http://www.alperyazar.com/r/twitter>`_ (mentioning for example), or via `my Facebook page <http://www.alperyazar.com/r/facebook>`__.
 
