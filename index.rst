@@ -32,8 +32,11 @@ lived in `Bursa <https://en.wikipedia.org/wiki/Bursa>`__, `Turkey <https://en.wi
 Patent
 ======
 
-  * **Yazar. A**. Düşük Sızıntı Akımlı Anlık Tetik Girişli Yapılandırılabilir
+  * **Yazar, A.** Düşük Sızıntı Akımlı Anlık Tetik Girişli Yapılandırılabilir
     Mandal Devresi. **TR 2016 09051 B**
+  * **Yazar, A.** A Configurable Latch Circuit with Low Leakage Current and
+    Instant Trigger Input. **PCT/TR2017/050233**, **WO/2018/004496** [#p1]_
+    `Link <https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2018004496>`__
 
 Publication
 ===========
@@ -41,7 +44,7 @@ Publication
 Conference
 ----------
 
-  * **Yazar. A.** (2018, June). Bir Açık Kaynak Kodlu Gerçek Zamanlı
+  * **Yazar, A.** (2018, June). Bir Açık Kaynak Kodlu Gerçek Zamanlı
     İşletim Sistemi (FreeRTOS) ile Gömülü Yazılım Geliştirme Çalışmaları.
     In 2018 9th Savunma Teknolojileri Kongresi (SAVTEK).
 
@@ -158,3 +161,5 @@ Miscellaneous
 * :ref:`genindex`
 * :ref:`search`
 
+.. [#p1] After successful technical examination including originality,
+   application to eligible countries is cancelled due to financial issues.
