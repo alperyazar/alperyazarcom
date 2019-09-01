@@ -44,6 +44,12 @@ Publication
 Conference
 ----------
 
+  * Ekici, N. U., Schmidt, K. W., **Yazar, A.**, & Schmidt, E. G. (2019, April). ACCLOUD-MAN-Power Efficient Resource Allocation for Heterogeneous Clouds. In 2019 27th Signal Processing and Communications Applications Conference (SIU) (pp. 1-4). IEEE. `Link <https://ieeexplore.ieee.org/abstract/document/8806247>`__
+
+  * Koltuk, F., **Yazar, A.**, & Schmidt, E. G. (2019, April). CLOUDGEN: Workload Generation for the Evaluation of Cloud Computing Systems. In 2019 27th Signal Processing and Communications Applications Conference (SIU) (pp. 1-4). IEEE. `Link <https://ieeexplore.ieee.org/abstract/document/8806358>`__
+
+  * Erol, A., **Yazar, A.**, & Schmidt, E. G. (2019, April). A Generalization of OpenStack for Managing Heterogeneous Cloud Resources. In 2019 27th Signal Processing and Communications Applications Conference (SIU) (pp. 1-4). IEEE. `Link <https://ieeexplore.ieee.org/abstract/document/8806551/>`__
+
   * **Yazar, A.** (2018, June). Bir Açık Kaynak Kodlu Gerçek Zamanlı
     İşletim Sistemi (FreeRTOS) ile Gömülü Yazılım Geliştirme Çalışmaları.
     In 2018 9th Savunma Teknolojileri Kongresi (SAVTEK).
