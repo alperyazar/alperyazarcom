@@ -95,10 +95,10 @@ Notebook
 
    nb/dict/index
 
-KB
-===
+.. toctree::
+   :maxdepth: 1
 
-:ref:`page_all_kb`
+   nb/kb/index
 
 Blog
 ====

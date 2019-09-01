@@ -1,5 +1,3 @@
-:orphan:
-
 .. _page_all_kb:
 
 Knowledge Base (KB)
