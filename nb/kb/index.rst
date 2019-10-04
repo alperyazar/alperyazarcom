@@ -3,7 +3,7 @@
 Knowledge Base (KB)
 ===================
 
-Newest first.
+Sorted by descending ID.
 
 .. toctree::
    :maxdepth: 1
