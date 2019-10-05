@@ -1,7 +1,7 @@
-.. _page_blog_20190903_ub:
+.. _page_ublog_20190903:
 
-Crash Course Computer Science (uB)
-===================================
+Crash Course Computer Science
+=============================
 
 * Birkaç gündür bu oynatma listesindeki videolara bakıyorum. ~10 dakika ve
   ~40 adet videodan oluşan bu seride mantık devreleri, işlemciler, yazılım gibi

@@ -1,7 +1,7 @@
-.. _page_blog_20190905_ub:
+.. _page_ublog_20190905:
 
-Yazamayanlara (uB)
-==================
+Yazamayanlara
+=============
 
 Twitter’da doktora tezini, makalesini yazamayanlar ya da yazacak kişiler için
 bir kitap önerisi “flood”una denk geldim. Bir bakacağım:

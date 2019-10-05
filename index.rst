@@ -121,7 +121,12 @@ Blog
 
    blog/2019*
 
-2018
+μBlog
+=====
+
+:ref:`page_all_ublog_posts`
+
+2019
 ----
 
 .. toctree::
@@ -129,17 +134,7 @@ Blog
    :reversed:
    :glob:
 
-   blog/2018*
-
-2017
-----
-
-.. toctree::
-   :maxdepth: 1
-   :reversed:
-   :glob:
-
-   blog/2017*
+   ublog/2019*
 
 .. _page_contact:
 
